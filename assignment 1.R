@@ -36,3 +36,4 @@ print(squared.mean)
 squares <- list()
 for(which.numbers in a){if(sqrt(a)==round(sqrt(a))){squares <- c(which.numbers,a)}}
 print(squares)
+
